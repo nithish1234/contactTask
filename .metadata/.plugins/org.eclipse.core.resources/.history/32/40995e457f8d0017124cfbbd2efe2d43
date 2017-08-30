@@ -1,0 +1,10 @@
+package com.main;
+
+import com.contactdetials.UserContact;
+
+public class UserContactMain {
+private void mian() {
+	UserContact user=new UserContact();
+			user.showContact();
+}
+}
