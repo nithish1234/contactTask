@@ -1,7 +1,0 @@
-package com.user.model;
-
-public class User {
-	private int nunmber;
-	private String name;
-
-}
