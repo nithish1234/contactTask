@@ -15,7 +15,7 @@ public class User {
 	private int id;
 	@Column(name="Contact_Name")
 	private String ContactName;
-	@Column(name="Contact_Number")
+	@Column(name="Contact_number")
 	private int ContactNumber;
 
 	@Override
